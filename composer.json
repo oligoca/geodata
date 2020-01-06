@@ -1,7 +1,6 @@
 {
     "name": "oligoca/geodata",
     "description": "Laravel 5.2 package that provides basic geographical data like Countries, Regions and Cities.",
-    "version": "6.0",
     "keywords": ["geographical data", "countries", "regions", "cities", "laravel"],
     "license": "MIT",
     "authors": [
